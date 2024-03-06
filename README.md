@@ -1,7 +1,10 @@
 
 # MERN Stack Signup
-![Screenshot 2024-03-06 121751](https://github.com/NAVEED476/new-Zarektronics/assets/95119749/c686be9d-5818-477f-af1a-d0057fa1ef18)
 ![Screenshot 2024-03-06 121712](https://github.com/NAVEED476/new-Zarektronics/assets/95119749/61ea56ae-c833-464f-bf53-6fc7c63fa9bd)
+![Screenshot 2024-03-06 122700](https://github.com/NAVEED476/new-Zarektronics/assets/95119749/52ee3c77-d6ce-42b1-a993-3a261188ccdd)
+
+![Screenshot 2024-03-06 121751](https://github.com/NAVEED476/new-Zarektronics/assets/95119749/c686be9d-5818-477f-af1a-d0057fa1ef18)
+
 This project is a simple signup application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It allows users to sign up by providing their details and stores the data in MongoDB. The frontend is built with React and styled-components, and local storage is used to store data when offline. If a user already exists, the application will throw an error.
 
 ## Features
