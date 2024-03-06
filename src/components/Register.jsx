@@ -230,7 +230,7 @@ const Register = () => {
     <Container>
       <Wrapper>
         <Title>Create an Account</Title>
-        {online ? (
+        
           <Form onSubmit={handleSubmit}>
             <Input
               type="text"
@@ -296,9 +296,7 @@ const Register = () => {
             )}
             {loading && <Loader />}
           </Form>
-        ) : (
-          <p>Offline mode: Please check your internet connection.</p>
-        )}
+       
       </Wrapper>
       <OnlineIndicator online={online}>{online ? "Online" : "Offline"}</OnlineIndicator>
     </Container>
